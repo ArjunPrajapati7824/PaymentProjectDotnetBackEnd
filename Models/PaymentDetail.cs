@@ -17,7 +17,7 @@ namespace PaymentDetailsCrudWeb.Models
         public string CardNumebr { get; set; } = "";
 
 
-        [Column(TypeName ="nvarchar(5)")]
+ [Column(TypeName ="nvarchar(5)")]
         public string ExpirationDate { get; set; } = "";
 
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaymentDetailsCrudWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e0f4266be9a749c14678e4860cf5cd40d7fa488")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaymentDetailsCrudWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaymentDetailsCrudWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -79,7 +79,7 @@ namespace PaymentDetailsCrudWeb.Controllers
         {
             _context.PaymentDetails.Add(paymentDetail);
             await _context.SaveChangesAsync();
-
+             
             return CreatedAtAction("GetPaymentDetail", new { id = paymentDetail.PaymentDetailId }, paymentDetail);
         }
 
