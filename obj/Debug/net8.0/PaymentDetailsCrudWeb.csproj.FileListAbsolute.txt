@@ -785,3 +785,4 @@ F:\AngularDotNetPaymentProject\PaymentProjectDotnetBackEnd\obj\Debug\net8.0\refi
 F:\AngularDotNetPaymentProject\PaymentProjectDotnetBackEnd\obj\Debug\net8.0\PaymentDetailsCrudWeb.pdb
 F:\AngularDotNetPaymentProject\PaymentProjectDotnetBackEnd\obj\Debug\net8.0\PaymentDetailsCrudWeb.genruntimeconfig.cache
 F:\AngularDotNetPaymentProject\PaymentProjectDotnetBackEnd\obj\Debug\net8.0\ref\PaymentDetailsCrudWeb.dll
+D:\DotNet\PaymentDetailsCrudWeb\obj\Debug\net8.0\PaymentDetailsCrudWeb.sourcelink.json
